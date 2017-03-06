@@ -56,9 +56,9 @@ def setup(app):
     app.add_transform(AutoStructify)
 ```
 
-See https://github.com/rtfd/recommonmark/blob/master/docs/conf.py for a full example.
+See <https://github.com/rtfd/recommonmark/blob/master/docs/conf.py> for a full example.
 
-AutoStructify comes with the following options. See http://recommonmark.readthedocs.org/en/latest/auto_structify.html for more information about the specific features.
+AutoStructify comes with the following options. See <http://recommonmark.readthedocs.org/en/latest/auto_structify.html> for more information about the specific features.
 
 * __enable_auto_toc_tree__: enable the Auto Toc Tree feature.
 * __auto_toc_tree_section__: when True, Auto Toc Tree will only be enabled on section that matches the title.
